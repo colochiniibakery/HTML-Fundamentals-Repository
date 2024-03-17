@@ -10,4 +10,4 @@ In this repository, you'll dive deep into the foundational aspects of HTML, the 
 
     Downloadable Resources: Access downloadable resources, including code snippets, templates, and additional materials to complement your learning. These resources are designed to enhance your understanding and facilitate practical implementation.
 
-🚀 Dive into the world of HTML fundamentals and unleash your creativity in web development. Happy coding! with me 📚📚
+🚀 Dive into the world of HTML fundamentals and unleash your creativity in web development. Happy coding with me !!
